@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/texada/static/css/main.aaf8a68d.chunk.css",
+    "main.js": "/texada/static/js/main.be0c0c74.chunk.js",
+    "main.js.map": "/texada/static/js/main.be0c0c74.chunk.js.map",
+    "runtime-main.js": "/texada/static/js/runtime-main.bc8014f7.js",
+    "runtime-main.js.map": "/texada/static/js/runtime-main.bc8014f7.js.map",
+    "static/css/2.23c648bd.chunk.css": "/texada/static/css/2.23c648bd.chunk.css",
+    "static/js/2.40e3535c.chunk.js": "/texada/static/js/2.40e3535c.chunk.js",
+    "static/js/2.40e3535c.chunk.js.map": "/texada/static/js/2.40e3535c.chunk.js.map",
+    "index.html": "/texada/index.html",
+    "precache-manifest.fe94ca9ba7b5b5d95cfbb264777f9fc8.js": "/texada/precache-manifest.fe94ca9ba7b5b5d95cfbb264777f9fc8.js",
+    "service-worker.js": "/texada/service-worker.js",
+    "static/css/2.23c648bd.chunk.css.map": "/texada/static/css/2.23c648bd.chunk.css.map",
+    "static/css/main.aaf8a68d.chunk.css.map": "/texada/static/css/main.aaf8a68d.chunk.css.map",
+    "static/js/2.40e3535c.chunk.js.LICENSE": "/texada/static/js/2.40e3535c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc8014f7.js",
+    "static/css/2.23c648bd.chunk.css",
+    "static/js/2.40e3535c.chunk.js",
+    "static/css/main.aaf8a68d.chunk.css",
+    "static/js/main.be0c0c74.chunk.js"
+  ]
+}
